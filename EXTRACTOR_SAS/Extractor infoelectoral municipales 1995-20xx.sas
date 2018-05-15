@@ -86,5 +86,5 @@ run;
 
 PROC EXPORT DATA=Todo_MLN_Secciones DBMS=XLS LABEL 
 		OUTFILE='/folders/myfolders/sasuser.v94/ELECIONNES_MLN_FINAL_SECCIONES' REPLACE;
-		SHEET='12015bis Locales'; *UTILIZAR cambiando el nombre de SHEET para añadir nueva hoja al mismo fichero Excel, p.ej. año de elecciones;
+		SHEET='12015 Locales'; *UTILIZAR cambiando el nombre de SHEET para añadir nueva hoja al mismo fichero Excel, p.ej. año de elecciones;
 RUN;
