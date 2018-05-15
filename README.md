@@ -1,2 +1,4 @@
 # InfoElectoralMLN
-Extracteur en tableau Excel du détail des résultats électoraux de la ville de Melilla (Espagne) à partir des listes de résultats officielles au format brut.
+
+## Extracteur SAS pour InfoElectoral.mir.es du Ministère de l'Intérieur - Melilla (Espagne)
+Extracteur au format en SAS pour obtenir le détail par bureau de vote des résultats électoraux de la ville autonome de Melilla à partir des listes de résultats officiels au format brut.
